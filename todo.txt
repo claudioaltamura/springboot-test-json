@@ -1,0 +1,21 @@
+todo
+====
+
+Read links
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html
+https://spring.io/blog/2016/04/15/testing-improvements-in-spring-boot-1-4
+https://spring.io/guides/gs/testing-web/
+https://examples.javacodegeeks.com/enterprise-java/spring/spring-rest-json-example/
+
+https://octoperf.com/blog/2018/02/08/spring-autowiring/
+
+https://dzone.com/articles/testing-improvements-in-spring-boot-14
+
+https://dzone.com/articles/unit-and-integration-tests-in-spring-boot
+
+https://objectpartners.com/2013/09/18/the-benefits-of-using-assertthat-over-other-assert-methods-in-unit-tests/
+
+
+https://stackoverflow.com/questions/4377699/spring-contextconfiguration-how-to-put-the-right-location-for-the-xml
+https://stackoverflow.com/questions/39084491/unable-to-find-a-springbootconfiguration-when-doing-a-jpatest
