@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/claudioaltamura/springboot-test-json.svg?branch=master)](https://travis-ci.org/claudioaltamura//springboot-test-json)
+[![Build Status](https://travis-ci.org/claudioaltamura/springboot-test-json.svg?branch=master)](https://travis-ci.org/claudioaltamura/springboot-test-json)
 
 
 # springboot-test-json
